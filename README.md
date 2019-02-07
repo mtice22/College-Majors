@@ -1,3 +1,4 @@
 # Introduction
 
-# Used
+# Programs Used
+MySQL, Python
