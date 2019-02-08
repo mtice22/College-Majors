@@ -30,4 +30,4 @@ The original article only ranked the highest and lowest median salaries. With so
 # Programs Used
 MySQL, Python 3.7.2
 
-Due to how MySQL functions, 
+Due to how MySQL functions, the file "raw data.txt" does not have the feature names as it is much easier to manually enter them in MySQL Workbench 8.0. 
