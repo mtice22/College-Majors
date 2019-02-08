@@ -4,6 +4,7 @@ This project is based on a Five Thirty-Eight article that used college major dat
 Five Thirty-Eight article: https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/ 
 
 The original article only ranked the highest and lowest median salaries. With so much valuable data, there is room for a lot more analysis. This project uses SQL and Python to visualize and rank majors in a variety of ways:
+  
 
 # Description
 
