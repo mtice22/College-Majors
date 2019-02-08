@@ -3,8 +3,7 @@ This project is based on a Five Thirty-Eight article that used college major dat
 
 Five Thirty-Eight article: https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/ 
 
-The original article only ranked the highest and lowest median salaries. With so much valuable data, there is room for a lot more analysis. 
-This project is done strictly out of interest and to practice SQL and Python coding skills. 
+The original article only ranked the highest and lowest median salaries. With so much valuable data, there is room for a lot more analysis. This project is done strictly out of interest and to practice SQL and Python coding skills. 
 
 # Description
 
@@ -30,3 +29,5 @@ This project is done strictly out of interest and to practice SQL and Python cod
 
 # Programs Used
 MySQL, Python 3.7.2
+
+Due to how MySQL functions, 
